@@ -1,2 +1,3 @@
-# Delhi-Air-Quality-Weather-Analysis-Dashboard-Excel-
-An Excel-based interactive dashboard analyzing the relationship between weather conditions and air quality across Delhi using hourly data. The project uncovers peak pollution hours, high-risk locations, and the impact of humidity and wind speed on PM2.5 levels to support data-driven air quality insights.
+`# Delhi-Air-Quality-Weather-Analysis-Dashboard-Excel-
+## Project Overview
+This project presents a comprehensive Air Quality & Weather Analysis Dashboard designed to deliver actionable environmental insights for Delhi. The dashboard integrates hourly air pollution and meteorological data across key locations into a single, interactive Excel view. It enables stakeholders to identify pollution hotspots, peak risk periods, and the impact of weather conditions on air quality, supporting data-driven decisions related to public health awareness, urban planning, and short-term air quality monitoring.
